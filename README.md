@@ -1,4 +1,4 @@
-## caRography
+## where our beaut HTML files are hosted
 
 [Office locations](https://hydroninjas.github.io/offices)
 
