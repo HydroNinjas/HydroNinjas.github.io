@@ -1,5 +1,5 @@
 ## caRography
 
-[Office locations](offices)
+[Office locations](https://hydroninjas.github.io/offices)
 
-[Land use maps](land_use)
+[Land use maps](https://hydroninjas.github.io/land_use)
